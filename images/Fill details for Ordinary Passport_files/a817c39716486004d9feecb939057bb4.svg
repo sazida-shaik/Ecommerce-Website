@@ -1,0 +1,8 @@
+<svg id="IC_INFORMATION_ICON_24PX" data-name="IC_INFORMATION ICON_24PX" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_152710" data-name="Rectangle 152710" width="24" height="24" fill="none"/>
+  <g id="info" transform="translate(4 4)">
+    <path id="Path_19091" data-name="Path 19091" d="M8,0a8,8,0,1,0,8,8A8,8,0,0,0,8,0ZM8,14.667A6.667,6.667,0,1,1,14.667,8,6.667,6.667,0,0,1,8,14.667Z" transform="translate(0 0)" fill="#003b8d"/>
+    <path id="Path_19092" data-name="Path 19092" d="M11.4,10h-.7a.7.7,0,0,0,0,1.4h.7v4.19a.7.7,0,1,0,1.4,0V11.4A1.4,1.4,0,0,0,11.4,10Z" transform="translate(-3.397 -3.523)" fill="#003b8d"/>
+    <circle id="Ellipse_682" data-name="Ellipse 682" cx="1.047" cy="1.047" r="1.047" transform="translate(6.953 3.311)" fill="#003b8d"/>
+  </g>
+</svg>
